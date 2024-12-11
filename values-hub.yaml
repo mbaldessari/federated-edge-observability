@@ -125,8 +125,8 @@ clusterGroup:
       name: edge-observability-stack
       namespace: edge-observability-stack
       project: hub
-      repoURL: https://github.com/validatedpatterns-demos/edge-observability-stack
-      chartVersion: main
+      repoURL: https://github.com/mbaldessari/edge-observability-stack
+      chartVersion: test
       path: "."
 
   # Only the hub cluster here - managed entities are edge nodes
