@@ -80,7 +80,7 @@ clusterGroup:
       name: aap-config
       namespace: aap-config
       project: hub
-      repoURL: https://github.com/mbaldessari/aap-config
+      repoURL: https://github.com/mbaldessari/aap-config-chart
       chartVersion: test
       path: "."
       extraValueFiles:
